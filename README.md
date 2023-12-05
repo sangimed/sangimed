@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 CSE (Curious Software Engineer).<br>🔭 I’m currently : Binge reading some OSS code to contribute to.<br>⚡ Fun fact : Currently preparing for a marathon 🏃... 
+👀 CSE (Curious Software Engineer).<br>🔭 I’m currently : Binge reading some OSS code to contribute to.<br>⚡ Fun fact : ~~Currently preparing for a marathon~~ completed a marathon 🏃... 
 
 
 ## 🌐 Socials:
