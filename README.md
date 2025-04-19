@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 CSE.<br>🔭 I’m currently : Binge reading some OSS code to contribute to.<br>⚡ Fun fact : ~~Currently preparing for a marathon~~ completed ~a~ two marathons 🏃... 
+👀 CSE.<br>🔭 I’m currently : Binge reading some OSS code to contribute to.<br>⚡ Fun fact : ~~Currently preparing for a marathon~~ completed two marathons 🏃... 
 
 
 ## 🌐 Socials:
