@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Fun fact : ~~Currently preparing for a marathon~~ completed two marathons 🏃... 
+⚡ Fun fact : ~~Currently preparing for a marathon~~ completed three marathons 🏃... 
 
 
 ## 🌐 Socials:
