@@ -1,6 +1,11 @@
 # 💫 About Me:
 ⚡ Fun fact : ~~Currently preparing for a marathon~~ completed three marathons 🏃... 
-
+<img
+  src="https://sdmntprnortheu.oaiusercontent.com/files/00000000-50c8-71f4-b93e-afdd53defbe2/raw?se=2025-11-10T21%3A28%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=8957aeb6-d9bd-4e48-8f8f-a2093f3d58e4&skoid=0a4a0f0c-99ac-4752-9d87-cfac036fa93f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-11-10T04%3A14%3A01Z&ske=2025-11-11T04%3A14%3A01Z&sks=b&skv=2024-08-04&sig=ZZoPXlhxiaNLEu1P9xYSSjtT0yQ%2BKoQCVMCFS5TAHp0%3D"
+  alt="avatar"
+  width="350"
+  align="right"
+/>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sangimed)
